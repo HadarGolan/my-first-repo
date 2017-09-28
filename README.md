@@ -25,4 +25,7 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)

@@ -2,7 +2,7 @@
 
 ## Family
 
-I have 3 sisterd:
+I have 3 sisters:
 
 1. Seffy
 2. Shaked
@@ -10,8 +10,7 @@ I have 3 sisterd:
 
 ## School:
 
-I study *EE*
-in the 'Technion'
+I study *EE* at the `Technion`
 
 ## More:
 
